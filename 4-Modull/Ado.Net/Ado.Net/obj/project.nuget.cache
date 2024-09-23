@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RMDt5c2rwLql1QtJSQZ6cqGk1esGk4MM5TyoP4w79fk0yN2uuiTzSESfkieQpTGhGMCsmK2Ix78ndHN17ytxvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shokhrukh\\OneDrive\\Desktop\\4-Modull\\Ado.Net\\Ado.Net\\Ado.Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shokhrukh\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\Shokhrukh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Shokhrukh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Shokhrukh\\.nuget\\packages\\npgsql\\8.0.4\\npgsql.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
